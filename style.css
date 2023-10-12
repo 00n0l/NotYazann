@@ -62,9 +62,8 @@ section.home {
 .btn {
   cursor: pointer;
   display: inline-block;
-  background: var(--primary-color);
+  background: #AAAAAA
   color: #fff;
-  text-decoration: none;
   padding: 10px 30px;
   margin: 20px 0;
   border: 0;
