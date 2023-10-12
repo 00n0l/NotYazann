@@ -26,10 +26,11 @@ h1 {
   color: #AAAAAA
 }
 
-h2 {
+h3 {
   font-size: 15px;
   font-weight: 300;
   color: #EE5B60
+ margin: 10px 0 10px;
 }
 
 p {
