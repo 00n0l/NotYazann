@@ -38,6 +38,12 @@ p {
   color: #EE5B60
 }
 
+desc {
+  margin: 20px 0 10px;
+  font-size: 1.1rem;
+  color: #AAAAAA
+}
+
 section {
   display: flex;
   flex-direction: column;
